@@ -2,7 +2,7 @@
 
 ## First Question
 
-Given the following code list the order of console.logs:
+Given the following code, list the order of console.logs:
 
 ```javascript
 console.log("Hello")
@@ -14,6 +14,12 @@ fetch('https://randomuser.me/api/')
   })
 
 console.log("Sup?")
+```
+
+```javascript
+// Hello
+// Sup?
+// Hi
 ```
 
 ## Second Question
